@@ -2,7 +2,7 @@
 
 Welcome to the **Anime Recommendation System**! This project is a web-based application that helps anime enthusiasts discover new anime series based on their preferences. The recommendation system provides a user-friendly interface to search and explore a wide variety of anime titles, along with personalized recommendations.
 
-[AnimeVec Web App](https://animevec.onrender.com/)
+[AnimeVec Web App](https://animevec.onrender.com/) You should wait 50 seconds at least to set a connection with the server (because of the free tier)
 
 [Link to Frontend Repository](https://github.com/khushbakhtx/AnimeVec_frontend)
 ## 📌 Table of Contents
