@@ -1,7 +1,7 @@
 # Anime Recommendation System
 
 Welcome to the **Anime Recommendation System**! This project is a web-based application that helps anime enthusiasts discover new anime series based on their preferences. The recommendation system provides a user-friendly interface to search and explore a wide variety of anime titles, along with personalized recommendations.
-
+[AnimeVec Web App](https://animevec.onrender.com/)
 ## 📌 Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -37,16 +37,3 @@ The Anime Recommendation System is designed to suggest anime based on the user's
 - **Axios** - For making HTTP requests.
 - **Selenium & BeautifulSoup** - For scraping anime data, if applicable.
 - **Machine Learning Model** - Pre-trained model for generating recommendations.
-
-## ⚙️ Getting Started
-
-### Prerequisites
-- Node.js and npm (for front-end)
-- Python and Flask (for back-end)
-
-### Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/username/anime-recommendation-system.git
-   cd anime-recommendation-system
