@@ -9,11 +9,6 @@ Welcome to the **Anime Recommendation System**! This project is a web-based appl
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 📄 Project Overview
 The Anime Recommendation System is designed to suggest anime based on the user's chosen title or favorite genres. It uses content-based filtering techniques to analyze the metadata of anime and generate recommendations. The front-end is built with React, while Flask powers the back-end API that serves recommendation data from a pre-trained machine learning model.
